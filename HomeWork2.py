@@ -5,8 +5,6 @@
 
 from random import randint as k
 
-player_one = input("Name1: ")
-player_two = input("Name2: ")
 candies = 2021
 gueue_play = 0 # Сколько возьмется за ход
 queue1 = 0 # Сколько конфет возьмут игроки
@@ -49,8 +47,7 @@ def player2():
 
     
 
-# Если игра против бота, добавляем этот модуль рандомного выпадения числа.
-#...
+
 
 
 
